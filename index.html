@@ -254,4 +254,4 @@
 
       const handleMouseMove = (e) => {
         if (!isDragging) return;
-        const clientX = e.touches ? e.touches[0].clientX :
+        const clientX = e.touches ? e.touches[0].clientX : e.clientX;
