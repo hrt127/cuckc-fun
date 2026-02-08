@@ -1,29 +1,23 @@
-# SIT OR SWIPE – CUCKC.FUN 🪑
+# Cuckc-Fun (Layer 2)
 
-![Version](https://img.shields.io/badge/version-0.1.0-orange)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Status](https://img.shields.io/badge/status-batshit%20alpha-pink)
+**Sit or Swipe.**
 
-Tinder, but the profiles are chairs.  
-Swipe on legends, curse at Monoblocs, maybe earn $CUCKC while your ass finds meaning.
+A viral meme-economy experiment for the $CUCKC token and Chair Cult.
 
-**Live demo (staging)** → https://cuckc-fun.vercel.app  
-**X** → @SnowziesK  
-
-- Big picture → `docs/MASTER-OVERVIEW.md`  
-- Collab pitch → `docs/PITCH.md`  
-- Tokenomics draft → `docs/TOKENOMICS.md`
-
----
+*   **Location**: `~/dojo/projects/cuckc-fun`
+*   **Tech Stack**: React 18, Vite, Framer Motion.
+*   **Role**: Mobile-first PWA for market polls disguised as a dating app.
 
 ## Quick Start
-
-Prototype currently lives in `index.html` (CDN/inline).  
-Future React/Vite app will go under `src/`.
-
 ```bash
-git clone https://github.com/hrt127/cuckc-fun.git
-cd cuckc-fun
-# open index.html in a browser, or run your own static server
+cd ~/dojo/projects/cuckc-fun
+npm install
+npm run dev
+# Visit http://localhost:5173
+```
 
-MIT – go build your own furniture empire, or fork the cult.
+## Setup & Specs
+*   **Setup**: See `SETUP-GUIDE.md` (mostly standard Vite).
+*   **Context**: See `PROJECT_CONTEXT.md` for core game theory.
+*   **Data**: `src/data/chairs.json` is the canonical deck (32 chairs).
+*   **AI**: Wired to Gemini via `VITE_GEMINI_API_KEY`. Optional.
