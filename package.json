@@ -10,17 +10,24 @@
     "deploy": "vite build && vercel --prod"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
     "@react-spring/web": "^9.7.3",
     "@use-gesture/react": "^10.3.0",
-    "canvas-confetti": "^1.9.2"
+    "canvas-confetti": "^1.9.2",
+    "lucide-react": "^0.563.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
     "vite": "^5.0.8"
   },
-  "keywords": ["chairs", "dating", "meme", "defi", "cuckc"],
+  "keywords": [
+    "chairs",
+    "dating",
+    "meme",
+    "defi",
+    "cuckc"
+  ],
   "author": "SnowziesK",
   "license": "MIT",
   "repository": {

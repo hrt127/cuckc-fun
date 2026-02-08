@@ -1,0 +1,838 @@
+[
+    {
+        "id": 1,
+        "name": "Soren",
+        "model": "Riempie Chair",
+        "age": 28,
+        "bio": "Sun‑bleached timber frame holding a tight white leather lattice – frontier camp stool grown up into a quiet, architectural line drawing you can sit in.",
+        "hobbies": [
+            "Drafting",
+            "Brutalist Tours",
+            "Lattice weaving"
+        ],
+        "location": "Cape Town, WC",
+        "occupation": "Gallery Assistant",
+        "image": "https://www.jamesmudge.com/cdn/shop/products/Riempie-Chair-Natural-Iroko-White-Synthetic-Riempies-1_1800x1800.jpg?v=1663666666",
+        "tags": [
+            "#DesignHeritage",
+            "#Minimalism"
+        ],
+        "vibe": "Quiet, Architectural, Frontier-grown",
+        "market_archetype": "builder",
+        "chain_meta": "SOL_NARRATIVE_RIDER",
+        "meme_tags": [
+            "hODL",
+            "diamond_hands"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hans",
+        "model": "Wishbone CH24",
+        "age": 74,
+        "bio": "One continuous arc of wood resting on a hand‑woven paper‑cord raft – a poised Y‑back silhouette that feels like sitting inside a line of Danish calligraphy.",
+        "hobbies": [
+            "Calligraphy",
+            "Slow Coffee",
+            "Forest Walks"
+        ],
+        "location": "Copenhagen / Global",
+        "occupation": "Design Consultant",
+        "image": "https://images.unsplash.com/photo-1581539250439-c96689b516dd?auto=format&fit=crop&q=80&w=800",
+        "tags": [
+            "#DanishDesign",
+            "#Modernism"
+        ],
+        "vibe": "Poised, Organic, Timeless",
+        "market_archetype": "whale",
+        "chain_meta": "ETH_OG",
+        "meme_tags": [
+            "blue_chip",
+            "yield_farmer"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Franz",
+        "model": "Thonet No. 14",
+        "age": 165,
+        "bio": "A single looping beech stroke rising from four slender legs – the archetypal café gesture that turns any corner into a Viennese conversation.",
+        "hobbies": [
+            "Espresso",
+            "Bistro People-watching",
+            "Waltzing"
+        ],
+        "location": "Vienna",
+        "occupation": "Socialite",
+        "image": "https://images.unsplash.com/photo-1596162954151-cd5415b307fe?auto=format&fit=crop&q=80&w=800",
+        "tags": [
+            "#Bentwood",
+            "#CafeCulture"
+        ],
+        "vibe": "Loopy, Conversational, Rhythmic",
+        "market_archetype": "grinder",
+        "chain_meta": "LINDY_EFFECT",
+        "meme_tags": [
+            "coffee_zilla",
+            "old_money"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Haldane",
+        "model": "Outdoor Hoop",
+        "age": 34,
+        "bio": "Slim steel hoops and generous upholstered curves floating in colour – Cape Town’s poolside party translated into furniture that actually survives the weather.",
+        "hobbies": [
+            "Cocktail mixology",
+            "Sunbathing",
+            "Steel Drum Beats"
+        ],
+        "location": "Clifton 4th, CT",
+        "occupation": "Event Producer",
+        "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?auto=format&fit=crop&q=80&w=800",
+        "tags": [
+            "#OutdoorLiving",
+            "#VibrantLiving"
+        ],
+        "vibe": "Generous, Colorful, Weatherproof",
+        "market_archetype": "degen",
+        "chain_meta": "PUMPFUN_SPAWN",
+        "meme_tags": [
+            "bonk",
+            "wif",
+            "summer_vibes"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Eero",
+        "model": "Ball Chair",
+        "age": 61,
+        "bio": "A fiberglass sphere offering a room within a room. Perfect for keeping out the noise and contemplating the space age. I don't follow trends; I orbit them.",
+        "hobbies": [
+            "Futurism",
+            "Privacy",
+            "Vinyl Records"
+        ],
+        "location": "Helsinki",
+        "occupation": "Industrialist",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1586023492125-27b2c045efd7%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#SpaceAge",
+            "#Icon"
+        ],
+        "vibe": "Enclosed, Bold, Retro-Future",
+        "market_archetype": "insider",
+        "chain_meta": "PRIVACY_COIN",
+        "meme_tags": [
+            "monero",
+            "dark_pool"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Charles",
+        "model": "Lounge Chair & Ottoman",
+        "age": 68,
+        "bio": "Plywood and leather looking for a permanent home. I'm a bit of a mid-century classic. If you like long reads and scotch, I'm your guy.",
+        "hobbies": [
+            "Chess",
+            "Architecture",
+            "Fine Cigars"
+        ],
+        "location": "Los Angeles",
+        "occupation": "Professor Emeritus",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1594026112284-02bb6f3352fe%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#MidMod",
+            "#Luxury"
+        ],
+        "vibe": "Distinguished, Comfortable, Plywood",
+        "market_archetype": "whale",
+        "chain_meta": "BTC_MAXI",
+        "meme_tags": [
+            "laser_eyes",
+            "stack_sats"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Mies",
+        "model": "Barcelona Chair",
+        "age": 94,
+        "bio": "Less is more. Tufted leather on a chrome-plated steel frame. I’m high-maintenance and strictly professional. No pets, please.",
+        "hobbies": [
+            "Drafting",
+            "Grid systems",
+            "Minimalist art"
+        ],
+        "location": "Berlin",
+        "occupation": "Architect",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1567016376408-0226e4d0c1ea%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Bauhaus",
+            "#Structural"
+        ],
+        "vibe": "Stiff, Elegant, Prestigious",
+        "market_archetype": "institution",
+        "chain_meta": "BLACKROCK_ETF",
+        "meme_tags": [
+            "regulation",
+            "kyc"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Alvar",
+        "model": "Paimio Chair",
+        "age": 92,
+        "bio": "Bent birch plywood designed to help you breathe easier. I’m organic, wavy, and deeply connected to nature.",
+        "hobbies": [
+            "Forestry",
+            "Sanatorium design",
+            "Steam bending"
+        ],
+        "location": "Jyväskylä",
+        "occupation": "Humanist",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1598300042247-d088f8ab3a91%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Organic",
+            "#Birch"
+        ],
+        "vibe": "Flowing, Healing, Nordic",
+        "market_archetype": "regan",
+        "chain_meta": "REFI_DAO",
+        "meme_tags": [
+            "gitcoin",
+            "carbon_credits"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "George",
+        "model": "Coconut Chair",
+        "age": 69,
+        "bio": "Just like a slice of coconut—hard on the outside, soft on the inside. I allow for freedom of movement in any sitting position.",
+        "hobbies": [
+            "Modern Art",
+            "Surfing",
+            "Geometry"
+        ],
+        "location": "New York",
+        "occupation": "Art Director",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1551215717-848249826778%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Abstract",
+            "#Spontaneous"
+        ],
+        "vibe": "Quirky, Triangular, Open",
+        "market_archetype": "degen",
+        "chain_meta": "BASE_LAYER2",
+        "meme_tags": [
+            "normie_onboard",
+            "coinbase"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Verner",
+        "model": "Panton Chair",
+        "age": 57,
+        "bio": "One single piece of plastic, curved to perfection. I’m a total show-off and I love bright colors. Let’s make a statement.",
+        "hobbies": [
+            "Color Theory",
+            "Pop Art",
+            "Nightclubs"
+        ],
+        "location": "Basel",
+        "occupation": "Visionary",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1560185007-5f0bb51e3ba0%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Plastic",
+            "#Curves"
+        ],
+        "vibe": "Sultry, Synthetic, Revolutionary",
+        "market_archetype": "influencer",
+        "chain_meta": "DISCORD_ALPHA",
+        "meme_tags": [
+            "gm",
+            "wagmi",
+            "looks_rare"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Harry",
+        "model": "Diamond Chair",
+        "age": 72,
+        "bio": "Mostly air. Welded steel wire that’s more sculpture than furniture. I’m transparent about my feelings.",
+        "hobbies": [
+            "Sculpting",
+            "Aeronautics",
+            "Lattice theory"
+        ],
+        "location": "Detroit",
+        "occupation": "Artist",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Wireframe",
+            "#Industrial"
+        ],
+        "vibe": "Airy, Rigid, Crystalline",
+        "market_archetype": "builder",
+        "chain_meta": "ZK_ROLLUP",
+        "meme_tags": [
+            "tech_stack",
+            "scaling"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Le Corbusier",
+        "model": "LC2 Grand Confort",
+        "age": 96,
+        "bio": "A basket of cushions. My skeleton is on the outside. I’m a machine for sitting in.",
+        "hobbies": [
+            "Urban Planning",
+            "Concrete",
+            "Modular design"
+        ],
+        "location": "Paris",
+        "occupation": "Modernist",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1589415445759-269375e8162e%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Cube",
+            "#ExternalFrame"
+        ],
+        "vibe": "Rational, Padded, Urban",
+        "market_archetype": "whale",
+        "chain_meta": "DEFI_GOVERNANCE",
+        "meme_tags": [
+            "compound",
+            "aave",
+            "boring_defi"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Isamu",
+        "model": "Akari 1A",
+        "age": 73,
+        "bio": "I know I'm technically a lamp, but I identify as a support structure for light. I’m delicate, washi paper and bamboo.",
+        "hobbies": [
+            "Haiku",
+            "Zen Gardening",
+            "Origami"
+        ],
+        "location": "Gifu",
+        "occupation": "Poet",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1533090161767-e6ffed986c88%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Weightless",
+            "#Washi"
+        ],
+        "vibe": "Ethereal, Fragile, Glowing",
+        "market_archetype": "artist",
+        "chain_meta": "SOL_NFT",
+        "meme_tags": [
+            "mad_lads",
+            "tensor"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Marcel",
+        "model": "Wassily Chair",
+        "age": 102,
+        "bio": "Bicycle handlebars turned into a throne. I’m all about tubular steel and leather straps. I’m a pioneer of the movement.",
+        "hobbies": [
+            "Cycling",
+            "Steelwork",
+            "Theory"
+        ],
+        "location": "Dessau",
+        "occupation": "Instructor",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1586023492125-27b2c045efd7%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Bauhaus",
+            "#TubularSteel"
+        ],
+        "vibe": "Constructivist, Hardy, Linear",
+        "market_archetype": "dev",
+        "chain_meta": "RUST_DEV",
+        "meme_tags": [
+            "verified_contract",
+            "audited"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Pierre",
+        "model": "Jeanneret V-Leg",
+        "age": 70,
+        "bio": "Chandigarh vibes. Teak and cane. I’m a bit of a political statement but mostly just very steady.",
+        "hobbies": [
+            "Civil Service",
+            "Tropical architecture",
+            "Cane weaving"
+        ],
+        "location": "Chandigarh",
+        "occupation": "Planner",
+        "image": "https://images.unsplash.com/photo-1581539250439-c96689b516dd?auto=format&fit=crop&q=80&w=800",
+        "tags": [
+            "#V-Leg",
+            "#Heritage"
+        ],
+        "vibe": "Solid, Exotic, Collaborative",
+        "market_archetype": "grinder",
+        "chain_meta": "L2_SEASON",
+        "meme_tags": [
+            "arbitrum",
+            "optimism"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Gaetano",
+        "model": "UP5 Donna",
+        "age": 55,
+        "bio": "Anatomical and political. I come with a ball-and-chain ottoman. I’m a big personality with a lot of curves.",
+        "hobbies": [
+            "Social activism",
+            "Pop culture",
+            "Polyurethane"
+        ],
+        "location": "Milan",
+        "occupation": "Provocateur",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1560185007-5f0bb51e3ba0%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Anthropomorphic",
+            "#Statement"
+        ],
+        "vibe": "Curvy, Heavy, Loaded",
+        "market_archetype": "exit_liquidity",
+        "chain_meta": "MEME_TOKEN",
+        "meme_tags": [
+            "pepe",
+            "froge",
+            "rekt"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Philippe",
+        "model": "Louis Ghost",
+        "age": 22,
+        "bio": "A transparent reincarnation of a classic. I’m there, but I’m not. Perfect for small spaces and big egos.",
+        "hobbies": [
+            "Magic",
+            "Optical Illusions",
+            "Polycarbonate"
+        ],
+        "location": "Paris",
+        "occupation": "Ghostwriter",
+        "image": "https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&q=80&w=800",
+        "tags": [
+            "#Transparent",
+            "#Postmodern"
+        ],
+        "vibe": "Witty, Invisible, Neoclassic",
+        "market_archetype": "bot",
+        "chain_meta": "MEV_BOT",
+        "meme_tags": [
+            "sandwich_attack",
+            "jito"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Ron",
+        "model": "Rover Chair",
+        "age": 43,
+        "bio": "A car seat in a steel frame. I’m ready for the road, even if I’m bolted to the floor. Ready-made and industrial.",
+        "hobbies": [
+            "Upcycling",
+            "Classic cars",
+            "Welding"
+        ],
+        "location": "London",
+        "occupation": "Inventor",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#ReadyMade",
+            "#Punk"
+        ],
+        "vibe": "Scrappy, Fast, Reclaimed",
+        "market_archetype": "hacker",
+        "chain_meta": "HACKATHON_WINNER",
+        "meme_tags": [
+            "whitehat",
+            "exploit"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Jean",
+        "model": "Standard Chair",
+        "age": 89,
+        "bio": "Thin steel for the front legs, hollow sections for the back. I understand where the weight falls. I’m reliable.",
+        "hobbies": [
+            "Physics",
+            "Metalwork",
+            "School design"
+        ],
+        "location": "Nancy",
+        "occupation": "Engineer",
+        "image": "https://images.unsplash.com/photo-1581539250439-c96689b516dd?auto=format&fit=crop&q=80&w=800",
+        "tags": [
+            "#Standard",
+            "#Structural"
+        ],
+        "vibe": "Honest, Utility, Logical",
+        "market_archetype": "infra",
+        "chain_meta": "NODE_OPERATOR",
+        "meme_tags": [
+            "uptime",
+            "validator"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Warren",
+        "model": "Platner Armchair",
+        "age": 58,
+        "bio": "Hundreds of vertical steel rods. I’m like a wheat sheaf in metallic form. Very glamorous, very 1960s.",
+        "hobbies": [
+            "Gala dinners",
+            "Jewelry design",
+            "Wire-bending"
+        ],
+        "location": "New York",
+        "occupation": "Socialite",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Verticality",
+            "#Elegance"
+        ],
+        "vibe": "Glittering, Complex, Formal",
+        "market_archetype": "vc",
+        "chain_meta": "SEED_ROUND",
+        "meme_tags": [
+            "vesting",
+            "token_unlock"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Poul",
+        "model": "PK22",
+        "age": 68,
+        "bio": "Discreet and sophisticated. I’m a study in spring steel and wicker. I don't need to shout to be noticed.",
+        "hobbies": [
+            "Jazz",
+            "Material research",
+            "Sailing"
+        ],
+        "location": "Copenhagen",
+        "occupation": "Artisan",
+        "image": "https://images.unsplash.com/photo-1581539250439-c96689b516dd?auto=format&fit=crop&q=80&w=800",
+        "tags": [
+            "#SpringSteel",
+            "#Understated"
+        ],
+        "vibe": "Lean, Sharp, Refined",
+        "market_archetype": "sniper",
+        "chain_meta": "PRIVATE_TX",
+        "meme_tags": [
+            "alpha_group",
+            "stealth_launch"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Joe",
+        "model": "Colombo Elda",
+        "age": 61,
+        "bio": "Seven rotating fiberglass petals. I feel like a command center for a villain’s lair. Let’s take over the world.",
+        "hobbies": [
+            "Sci-Fi",
+            "Surveillance",
+            "Plastics"
+        ],
+        "location": "Milan",
+        "occupation": "Strategist",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1586023492125-27b2c045efd7%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Swivel",
+            "#VillainCore"
+        ],
+        "vibe": "Commanding, Rotating, Retro",
+        "market_archetype": "cabal",
+        "chain_meta": "MARKET_MAKER",
+        "meme_tags": [
+            "wintermute",
+            "jump"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Charlotte",
+        "model": "Chaise Lounge",
+        "age": 96,
+        "bio": "I adjust to your every move. A symbol of rest and relaxation. Chromed steel and pony skin.",
+        "hobbies": [
+            "Photography",
+            "Skiing",
+            "Ergonomics"
+        ],
+        "location": "Paris",
+        "occupation": "Modernist",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1594026112284-02bb6f3352fe%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Adjustment",
+            "#Relaxation"
+        ],
+        "vibe": "Sloping, Luxurious, Humanist",
+        "market_archetype": "staking",
+        "chain_meta": "PASSIVE_INCOME",
+        "meme_tags": [
+            "apy",
+            "lockup"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Jasper",
+        "model": "Morrison Air-Chair",
+        "age": 25,
+        "bio": "Gas-injected polypropylene. I’m super normal, lightweight, and stackable. I’m easy to live with.",
+        "hobbies": [
+            "Biking",
+            "Super-normalism",
+            "Simplicity"
+        ],
+        "location": "London",
+        "occupation": "Designer",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1560185007-5f0bb51e3ba0%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#AirInjected",
+            "#Stackable"
+        ],
+        "vibe": "Light, Simple, Democratic",
+        "market_archetype": "airdrop_farmer",
+        "chain_meta": "SYBIL",
+        "meme_tags": [
+            "layerzero",
+            "multiple_wallets"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Børge",
+        "model": "Spanish Chair",
+        "age": 66,
+        "bio": "Solid oak and thick saddle leather. I have wide armrests for my coffee. I’m a sturdy companion.",
+        "hobbies": [
+            "Woodworking",
+            "Whisky",
+            "Reading"
+        ],
+        "location": "Denmark",
+        "occupation": "Craftsman",
+        "image": "https://images.unsplash.com/photo-1581539250439-c96689b516dd?auto=format&fit=crop&q=80&w=800",
+        "tags": [
+            "#SaddleLeather",
+            "#WideArms"
+        ],
+        "vibe": "Masculine, Robust, Warm",
+        "market_archetype": "ledger",
+        "chain_meta": "COLD_STORAGE",
+        "meme_tags": [
+            "trezor",
+            "self_custody"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Finn",
+        "model": "Chieftain Chair",
+        "age": 75,
+        "bio": "Inspired by organic shapes and primitive weapons. I’m the king of the room. A bit of a sculpture, a bit of a seat.",
+        "hobbies": [
+            "Art History",
+            "Anthropology",
+            "Teak"
+        ],
+        "location": "Copenhagen",
+        "occupation": "Sculptor",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1594026112284-02bb6f3352fe%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Chieftain",
+            "#OrganicModern"
+        ],
+        "vibe": "Regal, Exotic, Flowing",
+        "market_archetype": "founder",
+        "chain_meta": "PROJECT_LEAD",
+        "meme_tags": [
+            "doxxed",
+            "dev_wallet"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Konstantin",
+        "model": "Chair_One",
+        "age": 21,
+        "bio": "Die-cast aluminum logic. I’m made of triangles. I look uncomfortable but I’m surprisingly supportive.",
+        "hobbies": [
+            "3D Modeling",
+            "Industrial tech",
+            "Geometry"
+        ],
+        "location": "Munich",
+        "occupation": "Technologist",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Aluminum",
+            "#Geometric"
+        ],
+        "vibe": "Sharp, Digital, Skeletal",
+        "market_archetype": "polygon",
+        "chain_meta": "MATIC",
+        "meme_tags": [
+            "partnerships",
+            "biz_dev"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Zaha",
+        "model": "Mesa Chair",
+        "age": 17,
+        "bio": "Fluid dynamics in furniture form. I don't believe in 90-degree angles. I’m the future, flowing through your living room.",
+        "hobbies": [
+            "Parametricism",
+            "Futurism",
+            "Painting"
+        ],
+        "location": "London",
+        "occupation": "Architect",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1560185007-5f0bb51e3ba0%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Parametric",
+            "#Fluid"
+        ],
+        "vibe": "Sweeping, Alien, Advanced",
+        "market_archetype": "ai_agent",
+        "chain_meta": "AI_OVERFITTED",
+        "meme_tags": [
+            "singularity",
+            "gpu_rich"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Tom",
+        "model": "S-Chair",
+        "age": 33,
+        "bio": "A sinuous S-curve. Originally made of straw, now I’m sleek and covered in fabric. I’m a bit of a snake.",
+        "hobbies": [
+            "Metalwork",
+            "Salvage",
+            "Dancing"
+        ],
+        "location": "London",
+        "occupation": "Welder",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1560185007-5f0bb51e3ba0%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#S-Curve",
+            "#Graphic"
+        ],
+        "vibe": "Sinuous, Bold, Rhythmic",
+        "market_archetype": "chart_pattern",
+        "chain_meta": "TECHNICAL_ANALYSIS",
+        "meme_tags": [
+            "elliott_wave",
+            "fib_retracement"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Shiro",
+        "model": "How High the Moon",
+        "age": 38,
+        "bio": "Expanded steel mesh. I’m clear and weightless. I blur the boundaries between object and space.",
+        "hobbies": [
+            "Dreaming",
+            "Materiality",
+            "Jazz"
+        ],
+        "location": "Tokyo",
+        "occupation": "Dreamer",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#SteelMesh",
+            "#Weightless"
+        ],
+        "vibe": "Blurry, Cold, Ethereal",
+        "market_archetype": "vaporware",
+        "chain_meta": "GHOST_CHAIN",
+        "meme_tags": [
+            "road_map",
+            "soon_tm"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Frank",
+        "model": "Wiggle Side Chair",
+        "age": 52,
+        "bio": "Sixty layers of corrugated cardboard. I’m surprisingly strong and very curvy. I turn trash into high design.",
+        "hobbies": [
+            "Sketching",
+            "Papercraft",
+            "Sculpture"
+        ],
+        "location": "Santa Monica",
+        "occupation": "Architect",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1598300042247-d088f8ab3a91%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Cardboard",
+            "#Sustainable"
+        ],
+        "vibe": "Layered, Graphic, Eco-Chic",
+        "market_archetype": "recycler",
+        "chain_meta": "TOKEN_MIGRATION",
+        "meme_tags": [
+            "v2",
+            "rebrand"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Arne",
+        "model": "Egg Chair",
+        "age": 66,
+        "bio": "Total privacy in a public lobby. I’m a shell of foam and fabric. I’m the ultimate mid-century hug.",
+        "hobbies": [
+            "Botanics",
+            "Color matching",
+            "Sculpting"
+        ],
+        "location": "Copenhagen",
+        "occupation": "Architect",
+        "image": "https://www.google.com/search?q=https://images.unsplash.com/photo-1586023492125-27b2c045efd7%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D800",
+        "tags": [
+            "#Shell",
+            "#Privacy"
+        ],
+        "vibe": "Enveloping, Sculptural, Classic",
+        "market_archetype": "incubator",
+        "chain_meta": "Y_COMBINATOR",
+        "meme_tags": [
+            "demo_day",
+            "safe"
+        ]
+    }
+]
